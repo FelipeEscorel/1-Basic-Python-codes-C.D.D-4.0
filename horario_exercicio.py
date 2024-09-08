@@ -33,4 +33,4 @@ elif hora3 >= 48:
     hora3 -= 48
     print(f"{hora3}:{min3}")
 else:
-    print("Não")
+    pass
