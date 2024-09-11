@@ -1,6 +1,4 @@
-i = int(input("Digite um número: "))
-
-for i in range(1,i+1):
-
-    if i % 2 != 0:
-        print(i)
+for i in range(1,11,1):
+    num = int(input("Digite um número: "))
+    if num % 2 != 0:
+        print(f"{num} é ímpar")
