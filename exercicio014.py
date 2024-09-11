@@ -4,4 +4,4 @@ for i in range(0,10,1):
     num = int(input("Digite um número: "))
     if num % 2 != 0:
         soma = soma + num
-print(soma)
+print(f"A soma dos números ímpares é {soma}")
