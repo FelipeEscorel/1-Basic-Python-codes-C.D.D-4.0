@@ -10,4 +10,4 @@ while repita == 1:
 
     media = (nota1 + nota2)/2
     print(f"A média do aluno é de {media}\n")
-    repita = int(input("Deseja repetir o processo? Digite 1 para sim e 2 para não: "))
+    repita = int(input("Deseja repetir o processo? Digite 1 para sim ou qualquer outro valor para não: "))
